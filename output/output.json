@@ -1,0 +1,11 @@
+{
+    "210902192019": {
+        "timestamp": "w",
+        "metrics": {
+            "spread": 0.045,
+            "imbalance": 0.23,
+            "trade_intensity": 15
+        },
+        "decision": 1
+    }
+}

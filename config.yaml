@@ -1,0 +1,6 @@
+data_source: "polygon"  # Options: 'polygon', 'iex', 'manual'
+max_trade_size: 1000
+decision_thresholds:
+  spread_max: 0.05
+  imbalance_min: 0.2
+  intensity_min: 5
