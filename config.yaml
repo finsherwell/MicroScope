@@ -1,4 +1,4 @@
-data_source: "polygon"  # Options: 'polygon', 'iex', 'manual'
+data_source: "alphavant"  # Options: 'alphavant', 'manual'
 max_trade_size: 1000
 decision_thresholds:
   spread_max: 0.05
